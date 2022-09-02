@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>
          God Abeg
         </h1>
-
+</main>
        
     </div>
   )
