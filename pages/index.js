@@ -16,7 +16,8 @@ export default function Home() {
          God Abeg
         </h1>
 
-<img alt="God abeg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThunsj9vdIa3Y3CYdb55XbXFSsX6bD7cTyfQ&usqp=CAU" />
+<img alt="God abeg" src="/99C6650A-1062-4420-80FC-F173FCDA63EC.jpeg" />
+
 </main>
        
     </div>
