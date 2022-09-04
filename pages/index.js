@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import { Image } from "@chakra-ui/react";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -12,14 +12,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-         God Abeg
-        </h1>
+        <h1 className={styles.title}>God Abeg</h1>
 
-<img alt="God abeg" src="/99C6650A-1062-4420-80FC-F173FCDA63EC.jpeg" />
-
-</main>
-       
+        <Image alt="God abeg" src="/god-abeg-pills.jpeg" />
+      </main>
     </div>
-  )
+  );
 }
